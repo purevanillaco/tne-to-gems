@@ -1,3 +1,7 @@
+# convert
+*.yml
+!exampleData.yml
+
 # Logs
 logs
 *.log

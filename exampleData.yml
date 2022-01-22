@@ -1,0 +1,18 @@
+accounts:
+  8a0b22c3-f85a-4465-b0ea-732fcbcf1e86:
+    nickname: quiquelhappy
+    uuid: 8a0b22c3-f85a-4465-b0ea-732fcbcf1e86
+    payable: true
+    balances:
+      a223e331-f9c8-4b7f-ae5b-cd3a40b80c84: 100.0
+currencies:
+  a223e331-f9c8-4b7f-ae5b-cd3a40b80c84:
+    singular: gem
+    plural: gems
+    defaultbalance: 0.0
+    decimalsupported: false
+    defaultcurrency: true
+    payable: true
+    color: WHITE
+    exchange_rate: 1.0
+    symbol: ◭
